@@ -1,6 +1,6 @@
-# Olá, eu sou o Vinícius Reis Zimmermann! 👋
+# Olá, eu sou o Vinícius Reis Zimmermann
 
-### Software Engineer | Full-Stack Developer 🚀
+### Software Engineer
 
 Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unindo background acadêmico sólido com experiência prática no desenvolvimento de soluções completas.
 
