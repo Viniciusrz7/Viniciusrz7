@@ -39,7 +39,7 @@ Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unin
 
 ### Conexão
 - **LinkedIn:** [Vinícius Reis Zimmermann](https://www.linkedin.com/in/vin%C3%ADcius-reis-zimmermann-1774a82b8/)
-- **E-mail:** [vinirz17@gmail.com]
+- **E-mail:** vinirz17@gmail.com
 
 ### 📊 Projetos em Destaque
 * **Zimmermann Automotiva:** Sistema completo de vendas de autopeças (Spring Boot + React).
