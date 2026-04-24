@@ -2,7 +2,7 @@
 
 ### Software Engineer | Java Full-Stack Developer 🚀
 
-Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unindo background acadêmico sólido com experiência prática no desenvolvimento de soluções completas (End-to-End).
+Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unindo background acadêmico sólido com experiência prática no desenvolvimento de soluções completas.
 
 ---
 
