@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius Zimmermann! 👋
+# Olá, eu sou o Vinícius Reis Zimmermann! 👋
 
 ### Software Engineer | Java Full-Stack Developer 🚀
 
