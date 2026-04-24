@@ -9,7 +9,6 @@ Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unin
 ### 💻 Sobre Mim
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** (Vianna Júnior).
 - 📚 Cursando MBA em **Engenharia de Software com Java** (Instituto Infnet).
-- 🛠️ Desenvolvendo atualmente o **Zimmermann Automotiva**, um e-commerce automotivo de alta performance.
 - 🏢 Experiência em digitalização de processos operacionais e gestão administrativa.
 
 ---
