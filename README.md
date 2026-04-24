@@ -65,7 +65,7 @@ Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unin
 ### 📊 Minhas Atividades no GitHub
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-3d-rl.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
 <p align="center">
