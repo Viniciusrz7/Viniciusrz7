@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Roda todo dia à meia-noite
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -15,10 +15,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
-          git push
+          # Só faz o commit se o 'git status' indicar que algo mudou
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "generated"
+            git push
+          else
+            echo "Nenhuma alteração detectada nos gráficos 3D."
+          fi
