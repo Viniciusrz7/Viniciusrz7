@@ -69,8 +69,8 @@ Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unin
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusrz7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusrz7&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Viniciusrz7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusrz7&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ### 🛠️ Toolbox de Tecnologias
