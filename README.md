@@ -1,58 +1,88 @@
 # Olá, eu sou o Vinícius Reis Zimmermann! 👋
 
-### Software Engineer | Java Full-Stack Developer 🚀
+### Java Backend Developer | Spring Boot
 
-Atualmente focado em arquitetura de microsserviços e sistemas escaláveis. Unindo background acadêmico sólido com experiência prática no desenvolvimento de soluções completas.
+Atualmente focado em desenvolvimento backend com Java, Spring Boot e APIs REST, construindo aplicações web modernas e aplicando boas práticas de arquitetura e engenharia de software.
 
 ---
 
 ### 💻 Sobre Mim
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** (Vianna Júnior).
-- 📚 Cursando MBA em **Engenharia de Software com Java** (Instituto Infnet).
-- 🛠️ Desenvolvendo atualmente o **Zimmermann Automotiva**, um e-commerce automotivo de alta performance.
-- 🏢 Experiência em digitalização de processos operacionais e gestão administrativa.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (Vianna Júnior)
+📚 Pós-graduando em Engenharia de Software com Java (Instituto Infnet)
+🛠️ Desenvolvendo o projeto Zimmermann Automotiva, um sistema de ecommerce automotivo utilizando Spring Boot e React
+🏢 Experiência com digitalização de processos operacionais e gestão administrativa
+🚀 Em constante evolução técnica com foco em backend, arquitetura de software e desenvolvimento de aplicações escaláveis
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Backend & Arquitetura**
-* **Linguagem de Especialização:** Java (Core, Streams, Multithreading).
-* **Frameworks:** Spring Boot (Data JPA, Security), Hibernate.
-* **Metodologias:** DDD (Domain-Driven Design), TDD (Test-Driven Development).
-* **Arquitetura & Práticas:** Microservices, **Hexagonal Architecture**, **Clean Code**, **SOLID**, **Design Patterns**.
-* **APIs:** REST APIs, GraphQL.
-* **Segurança & Fluxo:** **JWT** (Authentication/Authorization), **Middlewares**, OAuth2.
-* **Mensageria:** Kafka, RabbitMQ.
+### Backend
+Java
+Spring Boot
+Spring Security
+Hibernate / JPA
+REST APIs
+JWT Authentication
+Maven
+ 
+### Frontend
+React
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
+HTML5 / CSS3
 
-**Frontend**
-* **Tecnologias:** React, Angular, Next.js, Tailwind CSS, HTML5, CSS3.
-* **Manipulação do DOM:** jQuery, AJAX.
+### Banco de Dados
+PostgreSQL
+MySQL
+SQL Server
+MongoDB
 
-**Bancos de Dados**
-* **Relacional:** SQL (PostgreSQL, SQL Server, MySQL, SQLite).
-* **Não Relacional:** MongoDB, NoSQL.
+### DevOps & Ferramentas
+Docker
+Git & GitHub
+Postman
+Linux
 
-**Cloud & DevOps**
-* **AWS:** EC2, S3, EKS (Elastic Kubernetes Service).
-* **Containers:** Docker, Kubernetes.
-* **CI/CD:** GitLab, Jenkins.
-
-**Outras Tecnologias & Familiaridade**
-* **Mobile:** Flutter, React Native.
-* **Linguagens:** Python (Análise de Dados e Machine Learning), C# (ASP.NET e Blazor), JavaScript, TypeScript.
-
+### Boas Práticas & Arquitetura
+Clean Code
+SOLID
+Arquitetura em Camadas
+DTO Pattern
+Versionamento Git
 ---
 
-### 📊 Projetos em Destaque
-* **Zimmermann Automotiva:** Sistema completo de vendas de autopeças (Spring Boot + React).
-* **ABase:** Digitalização e organização de processos operacionais para gestão de ONG.
+### 🚗 Zimmermann Automotiva
+
+Sistema completo para gerenciamento e venda de autopeças.
+
+Funcionalidades
+Autenticação JWT
+Dashboard administrativo
+Controle de estoque
+Cadastro de produtos
+Integração com WhatsApp
+APIs REST organizadas em camadas
+
+### 🏢 ABase
+
+Sistema voltado para digitalização e organização de processos administrativos para gestão de ONG.
+
+Funcionalidades
+Organização de processos internos
+Gerenciamento de dados
+Estruturação operacional
 
 ---
 
 ### 🎯 Objetivos de Estudo
-- Aprofundamento em arquitetura de Microsserviços com Spring Cloud.
-- Especialização em deploy escalável utilizando AWS (EKS) e Kubernetes.
+Arquitetura backend com Spring
+Microsserviços com Spring Cloud
+Deploy e infraestrutura com Docker e AWS
+Testes automatizados
+CI/CD e boas práticas DevOps
 
 ---
 
