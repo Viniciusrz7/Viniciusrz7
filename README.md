@@ -7,11 +7,12 @@ Atualmente focado em desenvolvimento backend com Java, Spring Boot e APIs REST, 
 ---
 
 ### 💻 Sobre Mim
-🎓 Graduado em Análise e Desenvolvimento de Sistemas (Vianna Júnior)
-📚 Pós-graduando em Engenharia de Software com Java (Instituto Infnet)
-🛠️ Desenvolvendo o projeto Zimmermann Automotiva, um sistema de ecommerce automotivo utilizando Spring Boot e React
-🏢 Experiência com digitalização de processos operacionais e gestão administrativa
-🚀 Em constante evolução técnica com foco em backend, arquitetura de software e desenvolvimento de aplicações escaláveis
+
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (Vianna Júnior)
+- 📚 Pós-graduando em Engenharia de Software com Java (Instituto Infnet)
+- 🛠️ Desenvolvendo o projeto Zimmermann Automotiva, um sistema de ecommerce automotivo utilizando Spring Boot e React
+- 🏢 Experiência com digitalização de processos operacionais e gestão administrativa
+- 🚀 Em constante evolução técnica com foco em backend, arquitetura de software e desenvolvimento de aplicações escaláveis
 
 ### 🛠️ Tecnologias e Ferramentas
 
