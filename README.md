@@ -13,8 +13,6 @@ Atualmente focado em desenvolvimento backend com Java, Spring Boot e APIs REST, 
 🏢 Experiência com digitalização de processos operacionais e gestão administrativa
 🚀 Em constante evolução técnica com foco em backend, arquitetura de software e desenvolvimento de aplicações escaláveis
 
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 ### Backend
@@ -52,7 +50,6 @@ SOLID
 Arquitetura em Camadas
 DTO Pattern
 Versionamento Git
----
 
 ### 🚗 Zimmermann Automotiva
 
