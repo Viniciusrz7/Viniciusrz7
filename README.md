@@ -14,43 +14,43 @@ Atualmente focado em desenvolvimento backend com Java, Spring Boot e APIs REST, 
 - 🏢 Experiência com digitalização de processos operacionais e gestão administrativa
 - 🚀 Em constante evolução técnica com foco em backend, arquitetura de software e desenvolvimento de aplicações escaláveis
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ### Backend
-Java
-Spring Boot
-Spring Security
-Hibernate / JPA
-REST APIs
-JWT Authentication
-Maven
- 
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- REST APIs
+- JWT Authentication
+- Maven
+
 ### Frontend
-React
-Next.js
-TypeScript
-JavaScript
-Tailwind CSS
-HTML5 / CSS3
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5 / CSS3
 
 ### Banco de Dados
-PostgreSQL
-MySQL
-SQL Server
-MongoDB
+- PostgreSQL
+- MySQL
+- SQL Server
+- MongoDB
 
 ### DevOps & Ferramentas
-Docker
-Git & GitHub
-Postman
-Linux
+- Docker
+- Git & GitHub
+- Postman
+- Linux
 
 ### Boas Práticas & Arquitetura
-Clean Code
-SOLID
-Arquitetura em Camadas
-DTO Pattern
-Versionamento Git
+- Clean Code
+- SOLID
+- Arquitetura em Camadas
+- DTO Pattern
+- Versionamento Git
 
 ### 🚗 Zimmermann Automotiva
 
