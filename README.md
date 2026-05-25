@@ -1,23 +1,30 @@
 # Olá, eu sou o Vinícius Reis Zimmermann! 👋
 
-### Java Backend Developer | Spring Boot
+### Full Stack Developer 
 
-Atualmente focado em desenvolvimento backend com Java, Spring Boot e APIs REST, construindo aplicações web modernas e aplicando boas práticas de arquitetura e engenharia de software.
+Atualmente focado em desenvolvimento Full Stack com Java, Typescript, Python e outras tecnologias construindo aplicações web modernas e aplicando boas práticas de arquitetura e engenharia de software.
 
 ---
 
 ### 💻 Sobre Mim
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (Vianna Júnior)
-- 📚 Pós-graduando em Engenharia de Software com Java (Instituto Infnet)
-- 🛠️ Desenvolvendo o projeto Zimmermann Automotiva, um sistema de ecommerce automotivo utilizando Spring Boot e React
-- 🏢 Experiência com digitalização de processos operacionais e gestão administrativa
-- 🚀 Em constante evolução técnica com foco em backend, arquitetura de software e desenvolvimento de aplicações escaláveis
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (Vianna Júnior).
+- 📚 Pós-graduando em Engenharia de Software com Java (Instituto Infnet).
+- 🛠️ Desenvolvi o projeto Zimmermann Automotiva, um sistema de ecommerce automotivo utilizando Spring Boot e React.
+- 🛠️ Desenvolvi o projeto ABase, um sistema de gestão administrativa com Typescript com Express e React.
+- 🏢 Experiência com digitalização de processos operacionais e gestão administrativa.
+- 🚀 Em constante evolução técnica com foco em, arquitetura de software e desenvolvimento de aplicações escaláveis
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Backend
 - Java
+- Typescript
+- Express
+- Node
+- NestJS
+- Sequelize
+- Prisma
 - Spring Boot
 - Spring Security
 - Hibernate / JPA
@@ -36,20 +43,39 @@ Atualmente focado em desenvolvimento backend com Java, Spring Boot e APIs REST, 
 ### Banco de Dados
 - PostgreSQL
 - MySQL
+- SQlite
+- NoSQL
 - SQL Server
 - MongoDB
 
 ### DevOps & Ferramentas
 - Docker
-- Git & GitHub
+- Git & GitHub & GitLab
+- AWS
+- Vercel
+- Netlify
+- SupaBase
+- Jenkins
+- Grafana
+- Prometheus
+- JMether
+- SonarQube
+- Kubernetes
 - Postman
+- Terraform
 - Linux
 
 ### Boas Práticas & Arquitetura
 - Clean Code
 - SOLID
 - Arquitetura em Camadas
-- DTO Pattern
+- Arquitetura Monolitica
+- Arquitetura de Microserviços
+- Desing Patterns
+- Domain Driven Design
+- Test-Driven Development
+- System Design
+- Desenvolvimento Agil
 - Versionamento Git
 
 ### 🚗 Zimmermann Automotiva
