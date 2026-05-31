@@ -123,8 +123,7 @@ CI/CD e boas práticas DevOps
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=Viniciusrz7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Viniciusrz7&layout=compact&langs_count=7&theme=dracula" />
+  <img height="300" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Viniciusrz7&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ### 🛠️ Toolbox de Tecnologias
