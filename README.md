@@ -129,6 +129,6 @@ CI/CD e boas práticas DevOps
 ### 🛠️ Toolbox de Tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nextjs,ts,js,html,css,tailwind,postgres,mysql,mongodb,aws,docker,kubernetes,git,jenkins,py,cs,dotnet,flutter" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nextjs,ts,js,html,css,tailwind,postgres,mysql,mongodb,aws,docker,kubernetes,git,jenkins,py,cs,dotnet,flutter,node,prometheus,reactnative," />
   </a>
 </p>
